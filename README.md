@@ -1,6 +1,6 @@
 # Digital Literacy Project
 
-**Name:** Dev Nagpal
+**Name:** Dev Nagpal 
 **Reg No.:** 25BAI10823  
 
 ## Project Overview
@@ -15,5 +15,5 @@ This repository contains the Digital Literacy Portfolio for CSE0001. It includes
 - `report/` – Final project report
 
 ## Links
-- Google Form:
-- GitHub Profile:
+- Google Form: https://forms.gle/Psy6uXDtQZC7qGVD9
+- GitHub Profile: https://github.com/devnagpal
